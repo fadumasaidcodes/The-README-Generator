@@ -4,8 +4,8 @@ The README Generator
 ## Description
 This project is about creating a advance REEADME Project.
 ## Table of Contents 
-* [UserStory](#User Story) 
-* [Acceptance Criteria](#Acceptance Criteria) 
+* [UserStory](#UserStory) 
+* [Acceptance Criteria](#AcceptanceCriteria) 
 * [Installation](#installation) 
 * [Usage](#usage) 
 * [License](#license)
