@@ -54,4 +54,5 @@ If you have any questions about the repo, open an issue or feel free to contact 
 
 ## Demo Video
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/B4q73V8bWZk)
+
