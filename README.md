@@ -50,7 +50,7 @@ The contributers are all me, and and used W3school as well for references
 
 ## Questions
     
-If you have any questions about the repo, open an issue or feel free to contact me on faduma2222@gmail.com or [GitHub](https://github.com/fadumasaidcodes). you can find more information at:
+If you have any questions about the repo, open an issue or feel free to contact me on or [GitHub](https://github.com/fadumasaidcodes). you can find more information at:
 
 ## Demo Video
 
